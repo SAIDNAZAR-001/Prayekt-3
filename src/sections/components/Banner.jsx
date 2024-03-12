@@ -24,12 +24,12 @@ function Banner() {
           </div>
           <div className="banner-imge">
             <img
-              src="src/img/banner-imge/banner-imge1.png"
+              src="http://localhost:5173/src/img/banner-imge/banner-imge1.png"
               alt="banner-imge 1.png"
               id="banner-imge1"
             />
             <img
-              src="src/img/banner-imge/banner-imge2.png"
+              src="http://localhost:5173/src/img/banner-imge/banner-imge2.png"
               alt="banner-imge 2.png"
               id="banner-imge2"
             />

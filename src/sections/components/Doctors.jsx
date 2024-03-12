@@ -10,7 +10,7 @@ function Doctors(){
                         </p>
                     </div>
                     <div className="doctors-imge">
-                        <img src="src/img/doctors imge/doctors imge 1.png" alt="doctors imge 1.png" />
+                        <img src="http://localhost:5173/src/img/doctors%20imge/doctors%20imge%201.png" alt="doctors imge 1.png" />
                     </div>
                 </div>
             </div>

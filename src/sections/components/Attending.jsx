@@ -24,7 +24,7 @@ function Attending(attending){
                                 <p>Learn More</p>
                             </button>
                         </div>
-                        <img src="src/img/Attending imge/attending imge 1.png" alt="attending imge 1.png" />
+                        <img src="http://localhost:5173/src/img/Attending%20imge/attending%20imge%201.png" alt="attending imge 1.png" />
                     </div>
                 </div>
             </div>
