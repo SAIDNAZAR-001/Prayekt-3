@@ -19,8 +19,8 @@ function Banner(){
                         <Button/>
                     </div>
                     <div className="banner-imge">
-                        <img src="src/img/banner-imge/banner-imge 1.png" alt="banner-imge 1.png" id="banner-imge1"/>
-                        <img src="src/img/banner-imge/banner-imge 2.png" alt="banner-imge 2.png" id="banner-imge2"/>
+                        <img src="./banner-imge/banner-imge 1.png" alt="banner-imge 1.png" id="banner-imge1"/>
+                        <img src="./banner-imge/banner-imge 2.png" alt="banner-imge 2.png" id="banner-imge2"/>
                     </div>
                 </div>
             </div>
